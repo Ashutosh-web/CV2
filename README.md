@@ -1,2 +1,1 @@
-# CV2
-Please visit my portfolio : https://ashutosh-web.github.io/CV2/
+# CV2 : https://ashutosh-web.github.io/CV2/
