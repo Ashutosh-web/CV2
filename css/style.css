@@ -60,6 +60,13 @@ h3{
    float: right;
 }
 
+.skill-image-3{
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
 .top-cloud {
   position: absolute;
   right : 280px;
